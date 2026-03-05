@@ -1,0 +1,6 @@
+/Users/maciej/Studia/semestr 4/Rozprochy/Lab2/cmake-build-debug/CMakeFiles/math_static.dir
+/Users/maciej/Studia/semestr 4/Rozprochy/Lab2/cmake-build-debug/CMakeFiles/math_dynamic.dir
+/Users/maciej/Studia/semestr 4/Rozprochy/Lab2/cmake-build-debug/CMakeFiles/app_static.dir
+/Users/maciej/Studia/semestr 4/Rozprochy/Lab2/cmake-build-debug/CMakeFiles/app_dynamic.dir
+/Users/maciej/Studia/semestr 4/Rozprochy/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/maciej/Studia/semestr 4/Rozprochy/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

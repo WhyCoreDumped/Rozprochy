@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Lab2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "app_dynamic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_dynamic-Debug-ad3bf91b07bd1b1493a7.json",
+					"name" : "app_dynamic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "app_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-app_static-Debug-00c82a1c107c551b437c.json",
+					"name" : "app_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "math_dynamic::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-math_dynamic-Debug-393533d38fcfac011e88.json",
+					"name" : "math_dynamic",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "math_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-math_static-Debug-8137cf373c73cd5e3e22.json",
+					"name" : "math_static",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/maciej/Studia/semestr 4/Rozprochy/Lab2/cmake-build-debug",
+		"source" : "/Users/maciej/Studia/semestr 4/Rozprochy/Lab2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
