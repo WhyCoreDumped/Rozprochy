@@ -24,7 +24,7 @@ int main(void) {
         close(fd[1]);
         wait(NULL);
 
-        printf("These were all the files!\n");
+        printf("Search finished\n");
     }
     else {
         close(fd[1]);

@@ -17,7 +17,7 @@ int main() {
         if (pid < 0) {
             return 1;
         }
-        else if (pid == 0) {
+        if (pid == 0) {
             execlp("curl", "curl", "-s", url, NULL);
 
             exit(1);

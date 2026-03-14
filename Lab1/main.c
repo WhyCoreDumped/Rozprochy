@@ -8,7 +8,7 @@ struct Node
 };
 
 void addElement(struct Node **head, int data) {
-    struct Node *new_node = (struct Node *)malloc(sizeof(struct Node));
+    struct Node *new_node = malloc(sizeof(struct Node));
     if(new_node == NULL) return;
 
     new_node->data = data;
@@ -41,7 +41,7 @@ void deleteElement(struct Node **head, int data) {
     }
 
     if (temp == NULL) {
-        printf("Can't find searched value %d.\n", data);
+        printf("Can't find searched value %d\n", data);
         return;
     }
 
